@@ -39,12 +39,12 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 
 
 ### [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description)
-![4_Enunciado](assets/4_Enunciado.PNG)
+![4-enunciado](assets/4_enunciado.png)
 
 ### Envio correto
-![4_Resolvido](assets/4_resolvido.PNG)
+![4-resolvido](assets/4_resolvido.png)
 ### Tentativas
-![4-tentativas](assets/4_tentativas.PNG)
+![4-tentativas](assets/4_tentativas.png)
 
 **[Solução do Problema](hard/4_median_of_two_sorted_arrays.py)**
 
