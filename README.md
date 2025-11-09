@@ -49,6 +49,16 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 **[Solução do Problema](hard/4_median_of_two_sorted_arrays.py)**
 
 
+### [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
+![493-enunciado](assets/493_Enunciado.PNG)
+
+### Envio correto
+![493-resolvido](assets/493_resposta.PNG)
+### Tentativas
+![493-tentativas](assets/493_tentativas.PNG)
+
+**[Solução do Problema](hard/493_reverse_pairs.py)**
+
 
 ## Vídeo Explicativo
 
