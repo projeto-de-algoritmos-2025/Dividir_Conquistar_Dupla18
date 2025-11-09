@@ -38,25 +38,16 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 **[Solução do Problema](hard/148_sort_list.py)**
 
 
-### [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
-![2406_Enunciado](assets/2406_enunciado.PNG)
+### [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description)
+![4_Enunciado](assets/4_Enunciado.PNG)
 
 ### Envio correto
-![2406_Resolvido](assets/2406_resposta.PNG)
+![4_Resolvido](assets/4_resolvido.PNG)
 ### Tentativas
-![2406-tentativas](assets/2406_tentativas.PNG)
+![4-tentativas](assets/4_tentativas.PNG)
 
-**[Solução do Problema](mid/2406_divide_intervals_into_minimum_number_of_groups.py)**
+**[Solução do Problema](hard/4_median_of_two_sorted_arrays.py)**
 
-### [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description)
-![1235_Enunciado](assets/1235_Enunciado.PNG)
-
-### Envio correto
-![1235_Resposta](assets/1235_Resposta.PNG)
-### Tentativas
-![1235_Tentativas](assets/1235_Tentativas.PNG)
-
-**[Solução do Problema](hard/1235_maximum_profit_in_job_scheduling.py)**
 
 
 ## Vídeo Explicativo
