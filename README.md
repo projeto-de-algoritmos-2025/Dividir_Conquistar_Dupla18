@@ -62,7 +62,7 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 
 ## Vídeo Explicativo
 
-[Apresentação]()
+[Apresentação](https://www.youtube.com/watch?v=hG5QyvYKBXo)
 
 
 ## Linguagens
