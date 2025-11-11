@@ -35,7 +35,7 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 ### Tentativas
 ![148-tentativas](assets/148_Tentativas.png)
 
-**[Solução do Problema](hard/148_sort_list.py)**
+**[Solução do Problema](mid/148_sort_list.py)**
 
 
 ### [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description)
