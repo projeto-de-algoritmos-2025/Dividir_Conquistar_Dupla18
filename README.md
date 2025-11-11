@@ -20,9 +20,9 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 ![23](assets/23_Enunciado.PNG)
 
 ### Envio correto
-![23-solved](assets/23_Resolvido.PNG)
+![23-solved](assets/23_Resolvido.png)
 ### Tentativas
-![23-tentativas](assets/23_Tentativa.PNG)
+![23-tentativas](assets/23_Tentativa.png)
 
 **[Solução do Problema](hard/23_merge_k_sorted_lists.py)**
 
@@ -31,9 +31,9 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 ![148](assets/148_Enunciado.PNG)
 
 ### Envio correto
-![148-solved](assets/148_Resolvido.PNG)
+![148-solved](assets/148_Resolvido.png)
 ### Tentativas
-![148-tentativas](assets/148_Tentativas.PNG)
+![148-tentativas](assets/148_Tentativas.png)
 
 **[Solução do Problema](hard/148_sort_list.py)**
 
